@@ -4,9 +4,9 @@
   "image_url": "https://raw.githubusercontent.com/HTML-SP/my-links/main/profile.jpg",
   "links": [
     {
-      "title": "LinkedIn",
-      "url": "https://www.linkedin.com/company/meetuphtmlsp/",
-      "icon": "linkedin"
+      "title": "Twitter",
+      "url": "https://twitter.com/html_sp",
+      "icon": "twitter"
     },
     {
       "title": "GitHub",
@@ -14,14 +14,14 @@
       "icon": "github"
     },
     {
-      "title": "Twitter",
-      "url": "https://twitter.com/html_sp",
-      "icon": "twitter"
-    },
-    {
       "title": "Instagram",
       "url": "https://www.instagram.com/html_sp/",
       "icon": "instagram"
     },
+    {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/company/meetuphtmlsp/",
+      "icon": "linkedin"
+    }
   ]
 }
